@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/veggie-boost-vanila-app/",
+    "build": "vite build --base=/91_html-css_OlegKovrigaDev/",
     "preview": "vite preview"
   },
   "devDependencies": {
